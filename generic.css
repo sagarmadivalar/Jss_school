@@ -1,0 +1,282 @@
+.notefont
+{
+    font-family: bold;
+    font-size: 14pt;
+    font-weight: bolder;
+}
+.addisp
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+ height: 400px;
+
+  }
+.adreg
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    
+
+}
+.adcontact
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 450px;
+    
+}
+.adview
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 400px;
+
+}
+.adroll
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 400px;
+}
+.adres
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 200%;
+
+}
+.adapppro
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 400px;
+
+}
+.adapppro1
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 400px;
+
+}
+.addir
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 420px;
+
+}
+.adstaffpro
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 450px;
+
+}
+.one
+{
+    text-align: center;
+}
+.contacth2
+{
+    text-align: center;
+    font-size: 12pt;
+}
+.adlogout
+{
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+    border:solid;
+    margin-top: -20px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 200px;
+}
+
+.eventhome
+{
+    -webkit-border-radius: 12px;
+-moz-border-radius: 7px;
+border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 650px;
+}
+.adhome
+{
+    -webkit-border-radius: 12px;
+-moz-border-radius: 7px;
+border-radius: 7px;
+
+    border:solid;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 80px;
+    height: 450px;
+}
+.img1
+{
+    margin-top: -340px;
+    margin-left: 190px;
+    margin-right: 80px;
+}
+.img2
+{
+    margin-top: -170px;
+    margin-left: 190px;
+    margin-right: 80px;
+}
+
+/* For generic page styles. Not for sliders. */
+
+body { background:#F6F6F6;font:normal 0.9em Arial; margin:0; padding:0; padding-bottom:60px;}
+#heading
+{
+    margin-top: 2px;
+  margin-left: 90px;
+margin-right: 175px;
+border:solid;
+height: 70px;}
+#leftpart
+{ 
+    margin-top: 20px;
+  margin-left: 90px;
+margin-right: 575px;
+border:solid;
+height: 350px;
+width: 230px;}
+h1 {display:inline; font-family: georgia;}
+h2 {display:inline;}
+.div1, .div2 {width:700px;margin:0 auto;}
+.div1 {margin-top:30px;margin-bottom:60px;text-align:center;line-height:20px;}
+.div1 P {font-size:18px;}
+.div1 a, .div2 a {color:#07C; }
+.div1 a {margin:0 8px;}
+.div1 a.current {color:black; text-decoration:none;}
+.div2 {margin-top:70px;}
+.div2 li {padding-top:6px;padding-bottom:6px;}
+.green {color:Green;}
+.cn {font-family: "Courier New", Georgia;}
+#status {display:inline-block; margin-left:26px;line-height:50px;height:50px;vertical-align:middle;}
+
+.code
+{
+    border: dashed 1px #BCBCCB; padding:8px 12px; background-color: #F3F3F9; white-space:pre; font-family:"Courier New", Georgia;
+    font-size:12px; margin:6px 0;overflow:auto; 
+}
+/*For shaded div borders*/
+.gradientBoxesWithOuterShadows {
+
+padding: 20px;
+background-color: white;
+
+/* outer shadows  (note the rgba is red, green, blue, alpha) */
+-webkit-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.4);
+-moz-box-shadow: 0px 1px 6px rgba(23, 69, 88, .5);
+
+/* rounded corners */
+-webkit-border-radius: 12px;
+-moz-border-radius: 7px;
+border-radius: 7px;
+
+/* gradients */
+background: -webkit-gradient(linear, left top, left bottom,
+color-stop(0%, white), color-stop(15%, white), color-stop(100%, #D7E9F5));
+background: -moz-linear-gradient(top, white 0%, white 55%, #D5E4F3 130%);
+width:84%;
+}
+
+h4
+{
+    font-size: 10pt;
+}
+h4 hover
+{
+    text-decoration: none;
+}
+.btn
+{
+    width: 180px;
+}
+
+.center1
+{
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.center2
+{
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.one
+{
+    text-align: center;
+}

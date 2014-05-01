@@ -1,0 +1,9 @@
+English;:;78
+Kannada;:;99
+Hindi;:;0
+Mathemetics;:;0
+Science;:;0
+Social Science;:;90
+Marks Scored;:;542
+Total Marks;:;600
+Percentage;:;90.33

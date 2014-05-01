@@ -1,0 +1,6 @@
+Language1;100;;Pass
+Language2;100;;Pass
+Language3;100;;Pass
+Mathematics;100;;Pass
+Science;100;;Pass
+Social;100;;Pass

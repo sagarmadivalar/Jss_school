@@ -1,0 +1,19 @@
+Applicant#;:;2962
+Applicant Name;:;Swati
+Father Name;:;Rajesh
+Present Address;:;vidya nagar
+Permanent Address;:;vidya nagar
+City;:;hubli
+State;:;karnataka
+PIN;:;583101
+Nationality;:;INDIAN
+Relegion;:;HINDU
+Caste;:;aaa
+Category;:;GM
+Phone No;:;08392266778
+Mobile NO;:;9844871118
+Email Id;:;arunudameshi@gmail.com
+Date Of Birth;:;1992-09-29
+Standard;:;5
+previous Std;:;4
+previous School Name and marks;:;hbpu

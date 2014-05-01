@@ -1,0 +1,114 @@
+#page fieldset
+{
+   width: 800px;
+   padding:20px;
+   border:1px solid #ccc;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-khtml-border-radius: 10px;
+border-radius: 10px;
+margin-top: 50px;
+margin-left: 50px;
+margin-right: 50px;
+
+}
+#page .short_explanation
+{
+   font-family : Arial, sans-serif;
+   font-size: 0.6em;
+   color:#333;
+}
+#page .container
+{
+   margin-top:8px;
+   margin-bottom: 10px;
+}
+#page label
+{
+   font-family : Arial, sans-serif;
+   font-size:0.8em;
+   font-weight: bold;
+}
+
+#page input[type="text"],#page textarea,
+#page input[type="password"]
+{
+  font-family : Arial, Verdana, sans-serif;
+  font-size: 0.8em;
+  line-height:140%;
+  color : #000;
+  padding : 3px;
+  border : 1px solid #999;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+
+}
+#page input[type="text"]:focus
+{
+     background-color : #ffff99;
+  font-weight:bold;
+  color: #009;
+}
+
+#page input[type="text"],
+#page input[type="password"],
+select.one
+{
+  height:25px;
+  width:220px;
+}
+#page input[type="text"].one
+{
+  height:25px;
+  width:100px;
+  padding: 5px;
+}
+#page input[type="text"].two
+{
+  height:25px;
+  width:170px;
+  padding: 5px;
+}
+
+legend
+{
+   font-family : Arial, sans-serif;
+   font-size:1.2em;
+   font-weight: bold;
+}
+h2
+{
+   text-align: center;
+   font-family : Arial, sans-serif;
+   font-size: 1.5em;
+   font-weight:bold;
+   color:#333;
+}
+input[type="submit"]
+{
+   width:100px;
+   height:30px;
+
+}
+div.red
+{
+font-weight:bold;
+color: red;
+}
+#box1
+{
+    width:500px;
+    border: solid 1px black;
+    margin-left: 20px;
+    
+}
+#box2
+{
+    width: 500px;
+    background-color: palegoldenrod;
+     margin-left: 20px;
+     margin-top: 20px;
+     border: solid 1px;
+}
